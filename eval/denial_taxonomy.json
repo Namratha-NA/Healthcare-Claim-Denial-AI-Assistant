@@ -1,0 +1,12 @@
+{
+  "missing_information": "Missing/invalid patient/provider info, NPI, member ID, DOB, address, etc.",
+  "no_prior_authorization": "PA/referral required but not present or invalid",
+  "not_covered_benefit": "Service excluded or not a covered benefit under plan rules",
+  "medical_necessity": "Insufficient documentation to meet coverage criteria / medical necessity",
+  "timely_filing": "Submitted after timely filing window",
+  "duplicate_claim": "Duplicate submission or previously processed claim",
+  "coding_error": "Invalid/incorrect diagnosis/procedure/modifier or mismatch between codes",
+  "bundling_edit": "Bundling / unbundling / NCCI-type edit or modifier-related denial",
+  "coordination_of_benefits": "COB/MSP issue; primary payer not billed first / missing primary EOB",
+  "documentation_request": "Records requested but not received / incomplete documentation submitted"
+}
