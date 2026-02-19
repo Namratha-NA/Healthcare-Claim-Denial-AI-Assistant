@@ -143,7 +143,8 @@ def answer_denial(
     # Evidence snippets FROM FINAL docs
     evidence_snippets = []
     for d in docs[:2]:
-        evidence_snippets.append((d.page_content or "")[:450])
+        evidence_snippets = [(d.page_content or "")[:600] for d in docs[:3]]
+
 
     llm_response = generate_llm_structured(
         denial_text=denial_text,
