@@ -39,19 +39,19 @@ The Healthcare Claim Denial AI Assistant uses Retrieval-Augmented Generation (RA
 
 ### Architecture
 
-Denied Claim Text
+- Denied Claim Text
         ↓
-Intent Detection
+- Intent Detection
         ↓
-FAISS Retrieval (CMS Manuals)
+- FAISS Retrieval (CMS Manuals)
         ↓
-Evidence Filtering
+- Evidence Filtering
         ↓
-Ollama LLM (Structured JSON Output)
+- Ollama LLM (Structured JSON Output)
         ↓
-LangGraph Workflow
+- LangGraph Workflow
         ↓
-Streamlit UI
+- Streamlit UI
 
 ### Tech Stack
 
@@ -110,5 +110,6 @@ eval/
  ### Author
 
 Namratha Nagathihalli Anantha
+
 
 
