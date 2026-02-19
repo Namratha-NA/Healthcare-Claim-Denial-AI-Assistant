@@ -1,4 +1,4 @@
-# Healthcare Claim Denial AI Assistant**
+# Healthcare Claim Denial AI Assistant
 
 An LLM-powered Retrieval-Augmented Generation (RAG) system that analyzes Medicare claim denials, retrieves relevant CMS policy evidence, and generates structured remediation guidance with citations.
 Built as an end-to-end AI system using FAISS, LangGraph, Ollama (local LLM), and Streamlit.
@@ -110,4 +110,5 @@ eval/
  ### Author
 
 Namratha Nagathihalli Anantha
+
 
