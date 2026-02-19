@@ -53,6 +53,11 @@ The Healthcare Claim Denial AI Assistant uses Retrieval-Augmented Generation (RA
         ↓
 - Streamlit UI
 
+### Demo
+
+Below is the working Streamlit interface powered by LangGraph + Ollama (local LLM). Watch the full working demo here:
+https://www.loom.com/share/38a7d7a3c0834ca7aaa98b9cacd1bc90
+
 ### Tech Stack
 
 - Python
@@ -110,6 +115,7 @@ eval/
  ### Author
 
 Namratha Nagathihalli Anantha
+
 
 
 
