@@ -1,0 +1,34 @@
+{
+  "denial_summary": "Clerical error correction needed (minor omission). Submit corrected claim or request reopening per guidance.",
+  "likely_missing_items": [
+    "Remark Code",
+    "Diagnosis or condition"
+  ],
+  "recommended_actions": [
+    "Submit corrected claim with required information",
+    "Request reopening of denied claim"
+  ],
+  "appeal_guidance": "Refer to Transmittal 3415 for guidance on payment for Grandfathered Tribal FQHCs.",
+  "citations": [
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 312,
+      "chunk_id": "clm104c01__8764e2d4c1_p312_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 66,
+      "chunk_id": "clm104c32__aae6a4e58b_p66_c1"
+    },
+    {
+      "filename": "clm104c23__ad9637a4d4.pdf",
+      "page_num": 20,
+      "chunk_id": "clm104c23__ad9637a4d4_p20_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 218,
+      "chunk_id": "clm104c01__8764e2d4c1_p218_c1"
+    }
+  ]
+}

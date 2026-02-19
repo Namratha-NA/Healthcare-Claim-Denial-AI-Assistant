@@ -1,0 +1,31 @@
+{
+  "denial_summary": "Claim denied due to untimely filing. Receipt date exceeds 12 months from date of service.",
+  "likely_missing_items": [],
+  "recommended_actions": [
+    "Verify receipt date and ensure timely submission in the future",
+    "Review CMS policy on timely filing for Medicare claims"
+  ],
+  "appeal_guidance": "{'level': 'Reconsideration', 'next_step': 'Submit appeal to QIC (Quality Improvement Contractor)'}",
+  "citations": [
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 188,
+      "chunk_id": "clm104c01__8764e2d4c1_p188_c1"
+    },
+    {
+      "filename": "clm104c29pdf__70be9bf0b9.pdf",
+      "page_num": 15,
+      "chunk_id": "clm104c29pdf__70be9bf0b9_p15_c1"
+    },
+    {
+      "filename": "clm104c24__e483b06f08.pdf",
+      "page_num": 97,
+      "chunk_id": "clm104c24__e483b06f08_p97_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 189,
+      "chunk_id": "clm104c01__8764e2d4c1_p189_c1"
+    }
+  ]
+}

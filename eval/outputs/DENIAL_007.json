@@ -1,0 +1,35 @@
+{
+  "denial_summary": "Denied due to bundling edit. Services billed together are not separately payable without appropriate modifier and documentation.",
+  "likely_missing_items": [
+    "Documentation of separate charges for anesthesiology services",
+    "Appropriate modifiers on claim"
+  ],
+  "recommended_actions": [
+    "Review CMS policy regarding bundling edits",
+    "Verify if the physician has included charges for other qualified anesthetists in the bill",
+    "Check if a waiver was granted under certain circumstances"
+  ],
+  "appeal_guidance": "Provide documentation to support separate billing and charges, or demonstrate that a waiver was granted.",
+  "citations": [
+    {
+      "filename": "clm104c03__fe0e4cce5e.pdf",
+      "page_num": 15,
+      "chunk_id": "clm104c03__fe0e4cce5e_p15_c1"
+    },
+    {
+      "filename": "clm104c13__6a9a6a636e.pdf",
+      "page_num": 8,
+      "chunk_id": "clm104c13__6a9a6a636e_p8_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 275,
+      "chunk_id": "clm104c32__aae6a4e58b_p275_c1"
+    },
+    {
+      "filename": "clm104C12__ef644f05ba.pdf",
+      "page_num": 14,
+      "chunk_id": "clm104C12__ef644f05ba_p14_c1"
+    }
+  ]
+}

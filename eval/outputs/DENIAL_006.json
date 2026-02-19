@@ -1,0 +1,33 @@
+{
+  "denial_summary": "Incorrect diagnosis/procedure code combination due to missing or invalid diagnosis.",
+  "likely_missing_items": [
+    "Valid diagnosis code(s) to support billed service"
+  ],
+  "recommended_actions": [
+    "Review and correct diagnosis codes",
+    "Submit new claim with corrected diagnosis codes"
+  ],
+  "appeal_guidance": "RARC M76: Missing/incomplete/invalid diagnosis or condition. No appeal rights are afforded because the claim is unprocessable.",
+  "citations": [
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 188,
+      "chunk_id": "clm104c32__aae6a4e58b_p188_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 208,
+      "chunk_id": "clm104c32__aae6a4e58b_p208_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 182,
+      "chunk_id": "clm104c32__aae6a4e58b_p182_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 214,
+      "chunk_id": "clm104c32__aae6a4e58b_p214_c1"
+    }
+  ]
+}

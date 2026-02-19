@@ -1,0 +1,238 @@
+{
+  "num_cases": 20,
+  "avg_latency_sec": 81.272,
+  "json_ok_rate": 1.0,
+  "avg_keyword_coverage": 0.717,
+  "total_runtime_sec": 1625.632,
+  "per_case": [
+    {
+      "case_id": "DENIAL_001",
+      "latency_sec": 141.912,
+      "keyword_hits": 2,
+      "keyword_total": 3,
+      "keyword_coverage": 0.6666666666666666,
+      "missing_keywords": [
+        "claim submission"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_002",
+      "latency_sec": 82.061,
+      "keyword_hits": 3,
+      "keyword_total": 3,
+      "keyword_coverage": 1.0,
+      "missing_keywords": [],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_003",
+      "latency_sec": 72.355,
+      "keyword_hits": 1,
+      "keyword_total": 3,
+      "keyword_coverage": 0.3333333333333333,
+      "missing_keywords": [
+        "coverage criteria",
+        "documentation requirements"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_004",
+      "latency_sec": 84.544,
+      "keyword_hits": 3,
+      "keyword_total": 3,
+      "keyword_coverage": 1.0,
+      "missing_keywords": [],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_005",
+      "latency_sec": 84.023,
+      "keyword_hits": 3,
+      "keyword_total": 3,
+      "keyword_coverage": 1.0,
+      "missing_keywords": [],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_006",
+      "latency_sec": 75.051,
+      "keyword_hits": 2,
+      "keyword_total": 3,
+      "keyword_coverage": 0.6666666666666666,
+      "missing_keywords": [
+        "coding"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_007",
+      "latency_sec": 79.274,
+      "keyword_hits": 2,
+      "keyword_total": 3,
+      "keyword_coverage": 0.6666666666666666,
+      "missing_keywords": [
+        "correct coding"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_008",
+      "latency_sec": 79.869,
+      "keyword_hits": 2,
+      "keyword_total": 3,
+      "keyword_coverage": 0.6666666666666666,
+      "missing_keywords": [
+        "secondary payer"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_009",
+      "latency_sec": 77.123,
+      "keyword_hits": 3,
+      "keyword_total": 3,
+      "keyword_coverage": 1.0,
+      "missing_keywords": [],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_010",
+      "latency_sec": 82.446,
+      "keyword_hits": 2,
+      "keyword_total": 3,
+      "keyword_coverage": 0.6666666666666666,
+      "missing_keywords": [
+        "ordering provider"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_011",
+      "latency_sec": 72.748,
+      "keyword_hits": 1,
+      "keyword_total": 3,
+      "keyword_coverage": 0.3333333333333333,
+      "missing_keywords": [
+        "noncovered",
+        "benefit exclusion"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_012",
+      "latency_sec": 68.485,
+      "keyword_hits": 1,
+      "keyword_total": 3,
+      "keyword_coverage": 0.3333333333333333,
+      "missing_keywords": [
+        "eligibility",
+        "claim information"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_013",
+      "latency_sec": 82.551,
+      "keyword_hits": 3,
+      "keyword_total": 3,
+      "keyword_coverage": 1.0,
+      "missing_keywords": [],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_014",
+      "latency_sec": 75.859,
+      "keyword_hits": 2,
+      "keyword_total": 3,
+      "keyword_coverage": 0.6666666666666666,
+      "missing_keywords": [
+        "medical decision making"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_015",
+      "latency_sec": 79.336,
+      "keyword_hits": 3,
+      "keyword_total": 3,
+      "keyword_coverage": 1.0,
+      "missing_keywords": [],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_016",
+      "latency_sec": 89.036,
+      "keyword_hits": 1,
+      "keyword_total": 3,
+      "keyword_coverage": 0.3333333333333333,
+      "missing_keywords": [
+        "claim line",
+        "billing requirements"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_017",
+      "latency_sec": 79.554,
+      "keyword_hits": 1,
+      "keyword_total": 3,
+      "keyword_coverage": 0.3333333333333333,
+      "missing_keywords": [
+        "coding rules",
+        "eligibility"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_018",
+      "latency_sec": 70.984,
+      "keyword_hits": 3,
+      "keyword_total": 3,
+      "keyword_coverage": 1.0,
+      "missing_keywords": [],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_019",
+      "latency_sec": 75.27,
+      "keyword_hits": 2,
+      "keyword_total": 3,
+      "keyword_coverage": 0.6666666666666666,
+      "missing_keywords": [
+        "documentation requirements"
+      ],
+      "json_ok": true,
+      "num_citations": 4
+    },
+    {
+      "case_id": "DENIAL_020",
+      "latency_sec": 72.968,
+      "keyword_hits": 3,
+      "keyword_total": 3,
+      "keyword_coverage": 1.0,
+      "missing_keywords": [],
+      "json_ok": true,
+      "num_citations": 4
+    }
+  ]
+}

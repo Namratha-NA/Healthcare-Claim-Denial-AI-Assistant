@@ -1,0 +1,34 @@
+{
+  "denial_summary": "Coordination of benefits (COB) denial due to another insurer listed as primary.",
+  "likely_missing_items": [
+    "Primary payer's EOB",
+    "Primary payer's claims processing address"
+  ],
+  "recommended_actions": [
+    "Bill the primary payer first and attach their EOB to the secondary claim",
+    "Record the primary payer's claims processing address on the EOB if not provided"
+  ],
+  "appeal_guidance": "Submit additional documentation, including the primary payer's EOB and claims processing address, to support the appeal.",
+  "citations": [
+    {
+      "filename": "clm104c27__9e695783d8.pdf",
+      "page_num": 42,
+      "chunk_id": "clm104c27__9e695783d8_p42_c1"
+    },
+    {
+      "filename": "clm104c26pdf__f3ffee1fa7.pdf",
+      "page_num": 8,
+      "chunk_id": "clm104c26pdf__f3ffee1fa7_p8_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 258,
+      "chunk_id": "clm104c01__8764e2d4c1_p258_c1"
+    },
+    {
+      "filename": "clm104c29pdf__70be9bf0b9.pdf",
+      "page_num": 71,
+      "chunk_id": "clm104c29pdf__70be9bf0b9_p71_c1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "denial_summary": "Coverage criteria not met for requested DME item. Submit documentation demonstrating qualifying diagnosis and usage requirements.",
+  "likely_missing_items": [
+    "Qualifying diagnosis",
+    "Documentation of usage requirements"
+  ],
+  "recommended_actions": [
+    "Submit waiver request to A/B or DME MACs citing unusual circumstances preventing electronic claim submission.",
+    "Provide additional documentation supporting qualifying diagnosis and usage requirements."
+  ],
+  "appeal_guidance": "Appeal may be submitted if provider can demonstrate unusual circumstances outside of their control prevented electronic claim submission.",
+  "citations": [
+    {
+      "filename": "clm104c24__e483b06f08.pdf",
+      "page_num": 89,
+      "chunk_id": "clm104c24__e483b06f08_p89_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 265,
+      "chunk_id": "clm104c01__8764e2d4c1_p265_c1"
+    },
+    {
+      "filename": "clm104c24__e483b06f08.pdf",
+      "page_num": 14,
+      "chunk_id": "clm104c24__e483b06f08_p14_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 202,
+      "chunk_id": "clm104c01__8764e2d4c1_p202_c1"
+    }
+  ]
+}

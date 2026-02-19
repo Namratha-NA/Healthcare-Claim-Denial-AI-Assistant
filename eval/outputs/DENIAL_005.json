@@ -1,0 +1,31 @@
+{
+  "denial_summary": "Duplicate claim denial due to multiple DMEPOS suppliers submitting claims for the same beneficiary, provider, and date of service.",
+  "likely_missing_items": [],
+  "recommended_actions": [
+    "Verify if a previous claim has been submitted by another supplier within the span date already approved",
+    "Check if the current claim is a resubmission or an adjustment to a previously denied claim"
+  ],
+  "appeal_guidance": "If the denial was due to a duplicate claim, submit an adjustment or resubmission with supporting documentation to clarify the difference between the claims.",
+  "citations": [
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 264,
+      "chunk_id": "clm104c01__8764e2d4c1_p264_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 263,
+      "chunk_id": "clm104c01__8764e2d4c1_p263_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 265,
+      "chunk_id": "clm104c01__8764e2d4c1_p265_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 271,
+      "chunk_id": "clm104c01__8764e2d4c1_p271_c1"
+    }
+  ]
+}

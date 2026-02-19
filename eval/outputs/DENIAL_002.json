@@ -1,0 +1,33 @@
+{
+  "denial_summary": "Claim denied due to missing/invalid billing provider NPI.",
+  "likely_missing_items": [
+    "provider or supplier's National Provider Identifier (NPI)"
+  ],
+  "recommended_actions": [
+    "Verify the claim form (Form CMS-1490S) for accuracy and completeness",
+    "Ensure the itemized bill includes the correct provider identifier"
+  ],
+  "appeal_guidance": "Resubmit the corrected claim with accurate billing provider NPI.",
+  "citations": [
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 202,
+      "chunk_id": "clm104c01__8764e2d4c1_p202_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 312,
+      "chunk_id": "clm104c01__8764e2d4c1_p312_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 166,
+      "chunk_id": "clm104c01__8764e2d4c1_p166_c1"
+    },
+    {
+      "filename": "clm104c27__9e695783d8.pdf",
+      "page_num": 16,
+      "chunk_id": "clm104c27__9e695783d8_p16_c1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "denial_summary": "Missing modifier required for separate payment per coding edits.",
+  "likely_missing_items": [
+    "Modifier",
+    "Supporting documentation"
+  ],
+  "recommended_actions": [
+    "Attach the required modifier to the claim",
+    "Provide supporting documentation for the modifier"
+  ],
+  "appeal_guidance": "Submit a corrected claim with the missing items and supporting documentation.",
+  "citations": [
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 275,
+      "chunk_id": "clm104c32__aae6a4e58b_p275_c1"
+    },
+    {
+      "filename": "clm104c23__ad9637a4d4.pdf",
+      "page_num": 21,
+      "chunk_id": "clm104c23__ad9637a4d4_p21_c1"
+    },
+    {
+      "filename": "clm104c03__fe0e4cce5e.pdf",
+      "page_num": 116,
+      "chunk_id": "clm104c03__fe0e4cce5e_p116_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 291,
+      "chunk_id": "clm104c32__aae6a4e58b_p291_c1"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "denial_summary": "Service not covered under plan benefits due to non-compliance with CED.",
+  "likely_missing_items": [
+    "HINN or ABN notice issued to beneficiary",
+    "covered indication or alternative billing code"
+  ],
+  "recommended_actions": [
+    "Review and correct claim for compliance with CED; issue HINN or ABN if necessary; resubmit with covered indication or alternative billing code"
+  ],
+  "appeal_guidance": "Appeal is not applicable as the denial is due to non-compliance with coverage policy, not a medical necessity decision.",
+  "citations": [
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 166,
+      "chunk_id": "clm104c01__8764e2d4c1_p166_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 106,
+      "chunk_id": "clm104c32__aae6a4e58b_p106_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 116,
+      "chunk_id": "clm104c32__aae6a4e58b_p116_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 168,
+      "chunk_id": "clm104c01__8764e2d4c1_p168_c1"
+    }
+  ]
+}

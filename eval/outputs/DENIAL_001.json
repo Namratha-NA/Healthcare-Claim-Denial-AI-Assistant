@@ -1,0 +1,34 @@
+{
+  "denial_summary": "Claim denied due to lack of prior authorization and missing required documentation.",
+  "likely_missing_items": [
+    "Prior Authorization Number",
+    "Documentation for Clinical Trial Identifier"
+  ],
+  "recommended_actions": [
+    "Submit Prior Authorization documentation",
+    "Include the 8-digit clinical trial identifier number preceded by 'CT' in Field 19 of paper Form CMS-1500"
+  ],
+  "appeal_guidance": "Not applicable, as ASCA did not establish an appeal process for denial of paper claims. However, a waiver may be possible if situation changes.",
+  "citations": [
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 235,
+      "chunk_id": "clm104c32__aae6a4e58b_p235_c1"
+    },
+    {
+      "filename": "clm104c24__e483b06f08.pdf",
+      "page_num": 117,
+      "chunk_id": "clm104c24__e483b06f08_p117_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 239,
+      "chunk_id": "clm104c32__aae6a4e58b_p239_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 273,
+      "chunk_id": "clm104c32__aae6a4e58b_p273_c1"
+    }
+  ]
+}

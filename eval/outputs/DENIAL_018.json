@@ -1,0 +1,34 @@
+{
+  "denial_summary": "Missing discharge summary / operative report requested for review.",
+  "likely_missing_items": [
+    "Discharge summary",
+    "Operative report"
+  ],
+  "recommended_actions": [
+    "Submit required documents to support claim.",
+    "Review and resubmit claim with complete documentation."
+  ],
+  "appeal_guidance": "If you disagree with this dismissal, you have two options: 1. You may request that we vacate our dismissal.",
+  "citations": [
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 273,
+      "chunk_id": "clm104c32__aae6a4e58b_p273_c1"
+    },
+    {
+      "filename": "clm104c29pdf__70be9bf0b9.pdf",
+      "page_num": 60,
+      "chunk_id": "clm104c29pdf__70be9bf0b9_p60_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 249,
+      "chunk_id": "clm104c01__8764e2d4c1_p249_c1"
+    },
+    {
+      "filename": "clm104c24__e483b06f08.pdf",
+      "page_num": 112,
+      "chunk_id": "clm104c24__e483b06f08_p112_c1"
+    }
+  ]
+}

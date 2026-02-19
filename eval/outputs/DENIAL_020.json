@@ -1,0 +1,34 @@
+{
+  "denial_summary": "Secondary claim missing primary payer EOB. Attach primary remittance and resubmit as secondary.",
+  "likely_missing_items": [
+    "Primary payer EOB",
+    "Primary remittance"
+  ],
+  "recommended_actions": [
+    "Attach primary remittance to the secondary claim and resubmit.",
+    "Verify that the primary claim has been processed before submitting the secondary claim."
+  ],
+  "appeal_guidance": "Not applicable, as this is a procedural denial rather than an adverse determination.",
+  "citations": [
+    {
+      "filename": "clm104c29pdf__70be9bf0b9.pdf",
+      "page_num": 9,
+      "chunk_id": "clm104c29pdf__70be9bf0b9_p9_c1"
+    },
+    {
+      "filename": "clm104c27__9e695783d8.pdf",
+      "page_num": 43,
+      "chunk_id": "clm104c27__9e695783d8_p43_c1"
+    },
+    {
+      "filename": "clm104c27__9e695783d8.pdf",
+      "page_num": 71,
+      "chunk_id": "clm104c27__9e695783d8_p71_c1"
+    },
+    {
+      "filename": "clm104c27__9e695783d8.pdf",
+      "page_num": 17,
+      "chunk_id": "clm104c27__9e695783d8_p17_c1"
+    }
+  ]
+}

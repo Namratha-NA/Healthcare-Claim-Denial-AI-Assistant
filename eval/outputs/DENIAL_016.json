@@ -1,0 +1,33 @@
+{
+  "denial_summary": "Invalid Place of Service (POS) code for CR and ICR services.",
+  "likely_missing_items": [
+    "Correct POS code (11 or 22)"
+  ],
+  "recommended_actions": [
+    "Verify the correct POS code based on the date of service and location of service",
+    "Resubmit claim with corrected POS code"
+  ],
+  "appeal_guidance": "Refer to Transmittal R2679CP for updated Place of Service (POS) coding instructions, effective April 1, 2013.",
+  "citations": [
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 132,
+      "chunk_id": "clm104c32__aae6a4e58b_p132_c1"
+    },
+    {
+      "filename": "clm104c26pdf__f3ffee1fa7.pdf",
+      "page_num": 70,
+      "chunk_id": "clm104c26pdf__f3ffee1fa7_p70_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 134,
+      "chunk_id": "clm104c01__8764e2d4c1_p134_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 21,
+      "chunk_id": "clm104c01__8764e2d4c1_p21_c1"
+    }
+  ]
+}

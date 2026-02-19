@@ -1,0 +1,34 @@
+{
+  "denial_summary": "Claim denied due to ordering/referring provider not allowed to order/refer.",
+  "likely_missing_items": [
+    "Ordering/Referring Provider NPI",
+    "Billing Provider Information"
+  ],
+  "recommended_actions": [
+    "Verify ordering/referring provider's credentials and resubmit claim with correct information",
+    "Include ordering/referring provider's NPI on the claim form"
+  ],
+  "appeal_guidance": "If denied, review contractor's remittance advice for CARC/RARC combination CO/183/N574 and follow appeal procedures accordingly.",
+  "citations": [
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 234,
+      "chunk_id": "clm104c01__8764e2d4c1_p234_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 227,
+      "chunk_id": "clm104c01__8764e2d4c1_p227_c1"
+    },
+    {
+      "filename": "clm104c29pdf__70be9bf0b9.pdf",
+      "page_num": 55,
+      "chunk_id": "clm104c29pdf__70be9bf0b9_p55_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 312,
+      "chunk_id": "clm104c01__8764e2d4c1_p312_c1"
+    }
+  ]
+}

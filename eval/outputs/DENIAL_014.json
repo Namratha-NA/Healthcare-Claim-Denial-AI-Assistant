@@ -1,0 +1,33 @@
+{
+  "denial_summary": "Insufficient documentation to support billed level of service.",
+  "likely_missing_items": [
+    "Visit note including relevant history/exam/decision-making elements"
+  ],
+  "recommended_actions": [
+    "Submit a detailed visit note with supporting documentation",
+    "Ensure Condition Code 20 is used for non-covered charges"
+  ],
+  "appeal_guidance": "Review CMS requirements for demand bills and ensure compliance.",
+  "citations": [
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 171,
+      "chunk_id": "clm104c01__8764e2d4c1_p171_c1"
+    },
+    {
+      "filename": "clm104c29pdf__70be9bf0b9.pdf",
+      "page_num": 100,
+      "chunk_id": "clm104c29pdf__70be9bf0b9_p100_c1"
+    },
+    {
+      "filename": "clm104c01__8764e2d4c1.pdf",
+      "page_num": 4,
+      "chunk_id": "clm104c01__8764e2d4c1_p4_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 273,
+      "chunk_id": "clm104c32__aae6a4e58b_p273_c1"
+    }
+  ]
+}

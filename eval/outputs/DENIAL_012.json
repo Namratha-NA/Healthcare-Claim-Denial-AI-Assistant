@@ -1,0 +1,33 @@
+{
+  "denial_summary": "Invalid patient identifier / beneficiary ID not found.",
+  "likely_missing_items": [
+    "HICN or MBI number on claim form"
+  ],
+  "recommended_actions": [
+    "Verify member ID and demographics",
+    "Ensure correct HICN or MBI is entered on the claim form"
+  ],
+  "appeal_guidance": "Resubmit with corrected beneficiary identifier information.",
+  "citations": [
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 264,
+      "chunk_id": "clm104c32__aae6a4e58b_p264_c1"
+    },
+    {
+      "filename": "clm104c32__aae6a4e58b.pdf",
+      "page_num": 265,
+      "chunk_id": "clm104c32__aae6a4e58b_p265_c1"
+    },
+    {
+      "filename": "clm104c27__9e695783d8.pdf",
+      "page_num": 16,
+      "chunk_id": "clm104c27__9e695783d8_p16_c1"
+    },
+    {
+      "filename": "clm104c29pdf__70be9bf0b9.pdf",
+      "page_num": 74,
+      "chunk_id": "clm104c29pdf__70be9bf0b9_p74_c1"
+    }
+  ]
+}
