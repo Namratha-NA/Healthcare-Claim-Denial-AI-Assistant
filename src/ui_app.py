@@ -4,7 +4,7 @@ from langgraph_workflow import build_graph
 st.set_page_config(page_title="Healthcare Claim Denial AI", layout="wide")
 
 st.title("🏥 Healthcare Claim Denial AI Assistant")
-st.markdown("Analyze Medicare claim denials using CMS policy evidence and an LLM-powered RAG system.")
+st.markdown("Analyze Medicare claim denials using CMS policy evidence + an LLM-powered RAG workflow")
 
 @st.cache_resource
 def get_graph():
@@ -22,12 +22,8 @@ if st.button("Analyze Claim"):
     graph = get_graph()
 
     with st.spinner("Analyzing claim using AI..."):
-        try:
-            result = graph.invoke({"denial_text": denial_text, "question": question})
-            output = result.get("result", {})
-        except Exception as e:
-            st.error(f"Error during analysis: {e}")
-            st.stop()
+        result = graph.invoke({"denial_text": denial_text, "question": question})
+        output = result.get("result", {})
 
     st.divider()
 
@@ -56,3 +52,4 @@ if st.button("Analyze Claim"):
         st.subheader("Citations")
         for c in citations:
             st.write(f"- {c.get('filename','')} | page {c.get('page_num','')}")
+
